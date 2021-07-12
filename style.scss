@@ -1,0 +1,20 @@
+$coloroffblack: #343a40;
+#canvas_container {
+    margin: 80px auto 80px auto;
+}
+
+.canvas {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pdf_controls {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    height: 60px;
+    padding: 10px 15% 10px 15%;
+    background-color: $coloroffblack;
+}
