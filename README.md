@@ -7,5 +7,7 @@ Config:
 3. Create a CSS-file from the Sass-file
 4. Enjoy!
 
+If you made some changes or improved please create a pullrequest.
+
 By security concerns: contact at zegert dot nl
 For other issues: use the issues environment.
