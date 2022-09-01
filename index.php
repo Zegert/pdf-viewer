@@ -31,8 +31,7 @@
                 <div class="container">
                         <div class="row">
                                 <div class="col">
-                                        <a class="btn btn-dark" href="<?= $PDF ?>" id="url-pdf"
-                                                download="inhuisplaza">Opslaan
+                                        <a class="btn btn-dark" href="<?= $PDF ?>" id="url-pdf">Opslaan
                                                 als PDF bestand</a>
                                 </div>
                                 <div class="col">
